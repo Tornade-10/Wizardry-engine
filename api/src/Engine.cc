@@ -3,6 +3,8 @@
 #include <iostream>
 #include <ostream>
 
+
+
 #ifdef TRACY_ENABLE
 #include <tracy/Tracy.hpp>
 #endif
@@ -111,6 +113,9 @@ int Engine::Loop()
         case 2:
             // TODO : Make the collisions check
             //The collider must bounce between each others when they collide
+            aabb_.UpdateAABBs(20.0f);
+            aabb_.ResolveCollisions();
+            
             break;
 
 		default: 

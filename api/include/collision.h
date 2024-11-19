@@ -12,8 +12,6 @@ class Collision
 	int num_circles = 32;
 	int big_circle_radius_ = 250;
 
-
-
 	// Vector of circles (Body, Collider ?)
 	// Change the colors while colliding
 	// Check if and when colliding
@@ -28,7 +26,7 @@ public:
 	Collision()
 	{
 		float angle_increment = 2 * M_PI / num_circles; // Angle between each circle
-		float velocity_magnitude = -0.03f;                // Magnitude of initial velocity
+		float velocity_magnitude = 0.03f;                // Magnitude of initial velocity
 
 		for (size_t i = 0; i < num_circles; ++i)
 		{

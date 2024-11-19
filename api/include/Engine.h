@@ -13,6 +13,7 @@
 #include "const.h"
 #include "GraphicManager.h"
 #include "solar_system.h"
+#include "aabb_system.h"
 
 class Engine
 {
@@ -23,6 +24,7 @@ private:
 	SDL_Event event_;
 	SolarSystem solar_system_;
 	Collision collision_;
+	physic::AABBManager aabb_;
 
 	bool quit_ = false;
 	Uint32 last_frame_time_ = SDL_GetTicks();
