@@ -1,0 +1,14 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FeatureSummary.cmake
+C:/Users/maxen/source/repos/Wizardry-engine/api/CMakeLists.txt
+C:/Users/maxen/source/repos/Wizardry-engine/build/vcpkg_installed/x64-windows/share/gtest/GTestConfig.cmake
+C:/Users/maxen/source/repos/Wizardry-engine/build/vcpkg_installed/x64-windows/share/gtest/GTestConfigVersion.cmake
+C:/Users/maxen/source/repos/Wizardry-engine/build/vcpkg_installed/x64-windows/share/gtest/GTestTargets.cmake
+C:/Users/maxen/source/repos/Wizardry-engine/build/vcpkg_installed/x64-windows/share/imgui/imgui-config.cmake
+C:/Users/maxen/source/repos/Wizardry-engine/build/vcpkg_installed/x64-windows/share/imgui/imgui-targets.cmake
+C:/Users/maxen/source/repos/Wizardry-engine/build/vcpkg_installed/x64-windows/share/sdl2/SDL2Config.cmake
+C:/Users/maxen/source/repos/Wizardry-engine/build/vcpkg_installed/x64-windows/share/sdl2/SDL2ConfigVersion.cmake
+C:/Users/maxen/source/repos/Wizardry-engine/build/vcpkg_installed/x64-windows/share/sdl2/SDL2Targets.cmake
+C:/Users/maxen/source/repos/Wizardry-engine/build/vcpkg_installed/x64-windows/share/sdl2/SDL2mainTargets.cmake
+C:/Users/maxen/source/repos/Wizardry-engine/build/vcpkg_installed/x64-windows/share/sdl2/sdlfind.cmake

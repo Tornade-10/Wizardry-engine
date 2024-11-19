@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\maxen\source\repos\Wizardry-engine\core\src\body.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\maxen\source\repos\Wizardry-engine\core\src\force.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\core\include\Body.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\core\include\Maths\Mat2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\core\include\Maths\Mat3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\core\include\Maths\Mat4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\core\include\Maths\Vec2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\core\include\Maths\four_vec2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\core\include\Maths\four_vec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\core\include\Maths\four_vec4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\core\include\Maths\quaterions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\core\include\Maths\vec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\core\include\Maths\vec4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\core\include\collision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\core\include\collision_grid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\maxen\source\repos\Wizardry-engine\core\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2A05CBC4-D14D-3395-980E-2ADD46A5BF6A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ACB9D574-BED9-3ABE-A239-0375B0D975A6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

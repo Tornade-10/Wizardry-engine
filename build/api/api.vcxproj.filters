@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\maxen\source\repos\Wizardry-engine\api\src\Engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\maxen\source\repos\Wizardry-engine\api\src\GraphicManager.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\maxen\source\repos\Wizardry-engine\api\src\aabb_system.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\maxen\source\repos\Wizardry-engine\api\src\collider.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\maxen\source\repos\Wizardry-engine\api\src\collision.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\maxen\source\repos\Wizardry-engine\api\src\solar_system.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\api\include\CircleCollider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\api\include\Engine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\api\include\GraphicManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\api\include\aabb_system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\api\include\collision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\api\include\const.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\maxen\source\repos\Wizardry-engine\api\include\solar_system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\maxen\source\repos\Wizardry-engine\api\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2A05CBC4-D14D-3395-980E-2ADD46A5BF6A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ACB9D574-BED9-3ABE-A239-0375B0D975A6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

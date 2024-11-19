@@ -1,0 +1,14 @@
+{
+  "name": "wizardry-engine",
+  "version-string": "1.0",
+  "builtin-baseline": "4111e5e1b3a5e2a5b7c467133822ff749c05e564",
+  "dependencies": [
+    "sdl2",
+    "gtest",
+    "tracy",
+    {
+      "name": "imgui",
+      "features": [ "sdl2-binding", "sdl2-renderer-binding" ]
+    }
+  ]
+}
